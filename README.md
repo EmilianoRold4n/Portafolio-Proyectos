@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @TitoreB
+- 👋 Hi, I’m Emiliano @TitoreB
 - 👀 I’m interested in data science
-- 🌱 I’m currently learning SQL & Power Bi
-- 💞️ I’m looking to collaborate on data analysis proyects  
+- 🌱 I’m currently learning SQL, Java, Spring Boot & Maven  
+- 💞️ I’m looking to collaborate on data analysis proyects, developer.
 - 📫 How to reach me ...
 
 <!---
